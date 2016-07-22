@@ -1,20 +1,35 @@
 .toprighttext{
-    z-index: 100;
+    z-index: 1000;
     position: absolute;
     float: right;
     clear: both;
     color: #fff;
-    width: 25%;
-    right: 20px;;
+    width: 35%;
+    right: 5px;
+    font-size: 23px;
+    padding-top: 45px;
+
+}
+.toprighttext p {
+ font-size: 22px;
+ font-weight: bolder;
+
+}
+
+.toprighttext  h1 {
+ font-size: 49px;
+ font-weight: bolder;
 
 }
 
 .headers{
     width: 100%;
+    padding: 0%;
+    background-image: url(assets/header.jpg);
 }
 .imgtop{
 
-    width: 100%;
+    width: 150%;
 }
 .leftnav{
 background-color: #eaeaea;
@@ -64,26 +79,27 @@ ul li img{
 
 }
 
-#cont-b1{
-
-
-
+.cont-b1{display: none;
 }
-#cont-b2{
-
+.cont-b2{display: none;
 }
-#cont-b3{
 
+.cont-b3{
 }
-#cont-b4{
 
+.cont-b4{display: none;
 }
-#cont-b5{
 
+.cont-b5{display: none;
 }
-#cont-b6{
 
+.cont-b6{display: none;
 }
-#cont-b7{
 
+.cont-b7{display: none;
+}
+.cont-b3 .linkbb3{
+
+    font-size: 30px;
+    margin-left: 10px;
 }
