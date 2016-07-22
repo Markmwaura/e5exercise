@@ -1,0 +1,14 @@
+.toprighttext{
+    z-index: 100;
+    position: absolute;
+    float: right;
+    clear: both;
+    color: #fff;
+    width: 25%;
+    right: 20px;;
+
+}
+.imgtop{
+
+    width: 100%;
+}
