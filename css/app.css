@@ -12,3 +12,27 @@
 
     width: 100%;
 }
+.leftnav{
+background-color: #eaeaea;
+
+
+}
+.mainbody{
+
+padding: 5px;
+margin: 2%;
+margin-top: 60px;
+}
+
+.rightcontent{
+
+
+
+}
+ul li {
+
+text-decoration: none;
+list-style: none;
+height: 60px;
+
+}
