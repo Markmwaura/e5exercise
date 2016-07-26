@@ -33,8 +33,11 @@
 }
 .leftnav{
 background-color: #eaeaea;
-
-
+}
+.leftnav-fixed {
+  /*///top: 0;*/
+  z-index: 100;
+  position: fixed;
 }
 .mainbody{
 
@@ -44,7 +47,6 @@ margin-top: 60px;
 }
 
 .rightcontent{
-
 
 
 }
@@ -78,27 +80,33 @@ ul li img{
 
 }
 
-.cont-b1{display: none;
+.cont-b1{
+
 }
-.cont-b2{display: none;
+.cont-b2{
 }
 
 .cont-b3{
 }
 
-.cont-b4{display: none;
+.cont-b4{
 }
 
-.cont-b5{display: none;
+.cont-b5{
 }
 
-.cont-b6{display: none;
+.cont-b6{
 }
 
-.cont-b7{display: none;
+.cont-b7{
 }
 .cont-b3 .linkbb3{
 
     font-size: 30px;
     margin-left: 10px;
 }
+
+.fix-search  {
+    position: fixed;
+
+  }
