@@ -35,8 +35,9 @@
 background-color: #eaeaea;
 }
 .leftnav-fixed {
-  /*///top: 0;*/
-  z-index: 100;
+  top: 0;
+  width: 23%;
+  z-index: 4000;
   position: fixed;
 }
 .mainbody{
@@ -71,8 +72,10 @@ ul li:hover{
 }
 ul li a {
 margin-right: 10px;
+}
 
-
+ul li a:active {
+    background-color: blue;
 }
 ul li img{
 
