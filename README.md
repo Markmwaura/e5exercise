@@ -1,3 +1,3 @@
 # e5exercise
 
-The live version can be found here [babysteps](http://babysteps.bitballoon.com/)
+This repo contains a website for life advisory from childhood to adulthood [babysteps](http://babysteps.bitballoon.com/)
